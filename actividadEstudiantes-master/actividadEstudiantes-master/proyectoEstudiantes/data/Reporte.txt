@@ -1,0 +1,22 @@
+Los estudiantes del semestre 2 son: 
+
+-----------------------------------------------------------
+
+Cédula: 12123
+Nombre: gfhgfh
+Apellido: fdgdfg
+Semestre: 2
+Correo: sdfdsf
+Celular: 2332
+
+Los estudiantes del semestre 2 son: 
+
+-----------------------------------------------------------
+
+Cédula: 324324
+Nombre: sdfdsf
+Apellido: hjvhn
+Semestre: 2
+Correo: xvfdxv
+Celular: 23234
+
